@@ -1,4 +1,4 @@
-# Сard layout using Tailwind
+# Layout of cards in React using Tailwind
 
 ### 1200px
 
