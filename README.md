@@ -2,7 +2,7 @@
 
 ### 1200px
 
-<img src="src/img/layout.png" width="1100" height="600">
+<img src="src/img/layout.png" width="1000" height="500">
 
 ### 320px
 
